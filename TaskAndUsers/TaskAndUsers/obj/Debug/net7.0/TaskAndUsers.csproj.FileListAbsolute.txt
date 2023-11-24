@@ -1,0 +1,7 @@
+C:\Users\elif.yildiz\source\repos\TaskAndUsers\TaskAndUsers\obj\Debug\net7.0\TaskAndUsers.csproj.AssemblyReference.cache
+C:\Users\elif.yildiz\source\repos\TaskAndUsers\TaskAndUsers\obj\Debug\net7.0\TaskAndUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif.yildiz\source\repos\TaskAndUsers\TaskAndUsers\obj\Debug\net7.0\TaskAndUsers.AssemblyInfoInputs.cache
+C:\Users\elif.yildiz\source\repos\TaskAndUsers\TaskAndUsers\obj\Debug\net7.0\TaskAndUsers.AssemblyInfo.cs
+C:\Users\elif.yildiz\source\repos\TaskAndUsers\TaskAndUsers\obj\Debug\net7.0\TaskAndUsers.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildiz\source\repos\TaskAndUsers\TaskAndUsers\obj\Debug\net7.0\TaskAndUsers.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elif.yildiz\source\repos\TaskAndUsers\TaskAndUsers\obj\Debug\net7.0\TaskAndUsers.MvcApplicationPartsAssemblyInfo.cache
